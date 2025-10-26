@@ -18,10 +18,3 @@
 - Tested JWT token validation on API requests ✅
 - Configured Spring Security with JWT for authentication ✅
 
-### Pending Tasks
-- Secure additional endpoints:
-  - `/posts/create`
-  - `/friend-request/send`
-- Complete user profile API testing
-- Add API documentation
-- Avoid pushing sensitive credentials to GitHub
